@@ -1,0 +1,8 @@
+lxml
+tensorflow-gpu
+keras
+numpy
+gender_guesser
+scikit-learn
+pandas
+pydot
